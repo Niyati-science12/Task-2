@@ -1,0 +1,19 @@
+Test Case 1:
+Input: Marks = 95
+Expected Output: Grade A
+
+Test Case 2:
+Input: Marks = 85
+Expected Output: Grade B
+
+Test Case 3:
+Input: Marks = 75
+Expected Output: Grade C
+
+Test Case 4:
+Input: Marks = 65
+Expected Output: Grade D
+
+Test Case 5:
+Input: Marks = 45
+Expected Output: Grade F
